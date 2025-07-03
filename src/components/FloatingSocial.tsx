@@ -5,25 +5,25 @@ const FloatingSocial: React.FC = () => {
   const socialLinks = [
     {
       icon: <Mail className="w-5 h-5" />,
-      href: 'mailto:arjun.dev@example.com',
+      href: 'mailto:m2hgamerz.prince@gmail.com',
       label: 'Email',
       color: 'hover:bg-red-500'
     },
     {
       icon: <Phone className="w-5 h-5" />,
-      href: 'tel:+919876543210',
+      href: 'tel:+917678289728',
       label: 'Phone',
       color: 'hover:bg-green-500'
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
-      href: 'https://linkedin.com/in/arjun-kumar',
+      href: 'https://linkedin.com/in/prince-kumar-m2h',
       label: 'LinkedIn',
       color: 'hover:bg-blue-600'
     },
     {
       icon: <Github className="w-5 h-5" />,
-      href: 'https://github.com/arjun-kumar',
+      href: 'https://github.com/prince-m2hgamerz',
       label: 'GitHub',
       color: 'hover:bg-gray-800 dark:hover:bg-white dark:hover:text-gray-900'
     }
