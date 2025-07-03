@@ -80,7 +80,7 @@ const Hero: React.FC = () => {
             >
               <div className="w-full h-full rounded-full bg-gradient-to-br from-gray-900 to-black flex items-center justify-center overflow-hidden border-2 border-purple-500/30">
                 <img 
-                  src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=300" 
+                  src="https://chatgpt.com/s/m_686629a759008191845d53ca4d3b180d" 
                   alt="Prince Kumar"
                   className="w-36 h-36 rounded-full object-cover"
                 />
