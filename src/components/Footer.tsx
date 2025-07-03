@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           <div className="grid md:grid-cols-3 gap-8 mb-8">
             <div>
               <h3 className="text-2xl font-bold text-teal-400 mb-4">
-                Dev.Arjun
+                Prince.Kumar
               </h3>
               <p className="text-gray-300 leading-relaxed">
                 Full-Stack Web Developer passionate about creating digital experiences 
@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
           <div className="border-t border-gray-800 pt-8">
             <div className="flex flex-col md:flex-row justify-between items-center">
               <p className="text-gray-400 mb-4 md:mb-0">
-                © 2024 Arjun Kumar. Made with{' '}
+                © 2024 Prince Kumar. Made with{' '}
                 <Heart className="inline w-4 h-4 text-red-500 mx-1" />{' '}
                 in India
               </p>
