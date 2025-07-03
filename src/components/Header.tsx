@@ -42,7 +42,7 @@ const Header: React.FC = () => {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="text-2xl font-bold text-teal-600 dark:text-teal-400">
-            Dev.Arjun
+            Prince.Kumar
           </div>
 
           {/* Desktop Navigation */}
