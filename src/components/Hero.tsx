@@ -114,7 +114,7 @@ const Hero: React.FC = () => {
                   ease: "linear",
                 }}
               >
-                Arjun Kumar
+                Prince Kumar
               </motion.span>
             </motion.h1>
             
