@@ -38,14 +38,14 @@ const Contact: React.FC = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       label: 'Email',
-      value: 'arjun.dev@example.com',
-      href: 'mailto:arjun.dev@example.com'
+      value: 'm2hgamerz.prince@gamil.com',
+      href: 'mailto:m2hgamerz.prince@gmail.com'
     },
     {
       icon: <Phone className="w-6 h-6" />,
       label: 'Phone',
-      value: '+91 98765 43210',
-      href: 'tel:+919876543210'
+      value: '+91 7678289728',
+      href: 'tel:+917678289728'
     },
     {
       icon: <MapPin className="w-6 h-6" />,
@@ -59,19 +59,19 @@ const Contact: React.FC = () => {
     {
       icon: <Github className="w-6 h-6" />,
       label: 'GitHub',
-      href: 'https://github.com/arjun-kumar',
+      href: 'https://github.com/prince-m2hgamerz',
       color: 'hover:text-gray-900 dark:hover:text-white'
     },
     {
       icon: <Linkedin className="w-6 h-6" />,
       label: 'LinkedIn',
-      href: 'https://linkedin.com/in/arjun-kumar',
+      href: 'https://linkedin.com/in/prince-kumar-m2h',
       color: 'hover:text-blue-600'
     },
     {
       icon: <Twitter className="w-6 h-6" />,
       label: 'Twitter',
-      href: 'https://twitter.com/arjun_dev',
+      href: 'https://twitter.com/m2hgamerz',
       color: 'hover:text-blue-400'
     }
   ];
