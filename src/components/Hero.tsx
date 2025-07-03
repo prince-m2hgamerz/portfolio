@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
     // In a real implementation, this would download an actual resume file
     const link = document.createElement('a');
     link.href = '/resume.pdf'; // You would replace this with actual resume file
-    link.download = 'Arjun_Kumar_Resume.pdf';
+    link.download = 'Prince_Kumar_Resume.pdf';
     link.click();
   };
 
@@ -81,7 +81,7 @@ const Hero: React.FC = () => {
               <div className="w-full h-full rounded-full bg-gradient-to-br from-gray-900 to-black flex items-center justify-center overflow-hidden border-2 border-purple-500/30">
                 <img 
                   src="https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=300" 
-                  alt="Arjun Kumar"
+                  alt="Prince Kumar"
                   className="w-36 h-36 rounded-full object-cover"
                 />
               </div>
@@ -181,9 +181,9 @@ const Hero: React.FC = () => {
             variants={itemVariants}
           >
             {[
-              { icon: Mail, href: "mailto:arjun.dev@example.com", color: "hover:text-red-400" },
-              { icon: Linkedin, href: "https://linkedin.com/in/arjun-kumar", color: "hover:text-blue-400" },
-              { icon: Github, href: "https://github.com/arjun-kumar", color: "hover:text-gray-300" },
+              { icon: Mail, href: "mailto:m2hgamerz.prince@gmail.com", color: "hover:text-red-400" },
+              { icon: Linkedin, href: "https://linkedin.com/in/prince-kumar-m2h", color: "hover:text-blue-400" },
+              { icon: Github, href: "https://github.com/prince-m2hgamerz", color: "hover:text-gray-300" },
             ].map((social, index) => (
               <motion.a
                 key={index}
